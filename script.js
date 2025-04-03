@@ -13,8 +13,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Lista de términos y sus URLs asociadas
     const searchResults = {
-        "cristiano ronaldo": "results/Cristiano Ronaldo.html",
-        "lionel messi": "results/Lionel Messi.html",
+        "cristiano ronaldo": "Results/Cristiano Ronaldo.html",
+        "lionel messi": "Results/Lionel Messi.html",
         "computercraft": "Results/ComputerCraft.html",
         "python": "Results/Python.html",
         "chatgpt": "Results/ChatGPT.html"
